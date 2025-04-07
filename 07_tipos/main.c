@@ -36,7 +36,7 @@ int main() {
 	double w = 15.0;
 	printf("w = %f\n", w);
 
-	w = 1.25e3; // 1 * 10ˆ3
+	w = 1.25e3; // 1.25 * 10ˆ3
 	printf("w = %f\n", w);
 
 	char inicial = 'L';
